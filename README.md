@@ -29,9 +29,9 @@ Sou um desenvolvedor apaixonado por tecnologia e criação de soluções, atualm
 ## 🐍 Minhas Contribuições
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zielbinho/zielbinho/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zielbinho/zielbinho/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zielbinho/zielbinho/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
