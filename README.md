@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou o Gabriel! 👋
 
-<!--
-**zielbinho/zielbinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor apaixonado por tecnologia e criação de soluções, atualmente no meu último ano de **Engenharia de Computação** na UEPG. Tenho bastante interesse no desenvolvimento web, especialmente focado em front-end, e gosto de aplicar meus conhecimentos tanto em projetos acadêmicos quanto em iniciativas pessoais.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+- 🎓 Concluindo Engenharia de Computação na UEPG.
+- 💻 Atualmente focado em aprimorar minhas habilidades em desenvolvimento Front-end e Web.
+- 🏥 Trabalhando no meu TCC: um sistema web de prontuários eletrônicos para o departamento de Odontologia.
+- 🎲 Desenvolvendo um gerenciador de fichas web para o sistema de RPG Tormenta 20.
+- 🎮 Nas horas vagas, gerencio um servidor de PokéTibia e jogo RPG de mesa (Tormenta 20, Ordem Paranormal).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+</p>
+
+## 📈 Estatísticas do GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zielbinho&show_icons=true&theme=radical" alt="Minhas Estatísticas" />
+</p>
+
+## 📫 Como me encontrar
+- [LinkedIn](https://www.linkedin.com/in/gabriel-henrique-12b887255/)
+- E-mail: gabrielhenr2004@gmail.com
