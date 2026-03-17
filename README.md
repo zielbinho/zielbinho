@@ -22,7 +22,8 @@ Sou um desenvolvedor apaixonado por tecnologia e criação de soluções, atualm
 
 ## 📈 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zielbinho&show_icons=true&theme=radical" alt="Minhas Estatísticas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zielbinho&show_icons=true&theme=dracula" alt="Minhas Estatísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zielbinho&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
 </p>
 
 ## 📫 Como me encontrar
